@@ -32,6 +32,7 @@ Only a few products have more than 1000 reviews, yet these products (Electronics
 - Focus on Mid-Priced products (200-500).
 - Promote products with both high ratings and many reviews to perform best overall.
 ## Files in the Repository
-[`Amazon Product Review Analysis`](Amazon_Product_Review_Analysis.xlsx): The cleaned data, Pivot Tables and Dashboard.
-[`README.md`](
+[`Amazon Product Review Analysis`](Amazon_Product_Review_Analysis.xlsx)
+[`README.md`](README.md)
+[`images/](
 
