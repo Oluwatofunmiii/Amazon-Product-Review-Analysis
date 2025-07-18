@@ -23,3 +23,7 @@ To analyse business questions and compare values (`average discount by category`
 #### Build the dashboard
 Bar charts for category comparisons. Pie and Bar charts for business insights into highest discount % by regions.
 ## Key Findings
+Electronics give the biggest discounts but also gained the highest revenue.
+Very high discounts (over 50%) often come with lower ratings.
+Only a few products have more than 1000 reviews, yet these products (Electronics) create most of the revenue.
+
